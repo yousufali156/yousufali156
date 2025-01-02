@@ -1,12 +1,21 @@
 Hi, I'm Md. Yousuf Ali
+
 👋 I'm passionate about Web Development and Management.
+
 🌱 I'm currently diving deep into the PH Complete Web Development Course to expand my skills.
+
 💡 What I'm working on: Building functional, user-friendly websites while learning the latest tools and frameworks in web dev.
+
 🌍 Looking to Collaborate: I'm eager to connect with other developers and explore opportunities to collaborate and grow together!
+
 📬 Reach me: yousufwebwork@gmail.com
+
 🎯 Pronouns: He/Him
+
 ⚡ Fun Fact: I'm a web developer on a mission to make the web a better place, one line of code at a time.
+
 💕 Let's Connect: I'm open to ideas, feedback, or just a friendly chat about anything web development-related!
+
 
 <!---
 yousufali156/yousufali156 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
