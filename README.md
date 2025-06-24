@@ -4,12 +4,19 @@
 <br/>
 
 
-      <span align="center" style="color: #0065F8; font-weight: bold; font-size: 20px; background: rgba(27, 154, 170, 0.15); padding: 4px 10px; border-radius: 6px; box-shadow: 0 0 12px rgba(27, 154, 170, 0.5); display: inline-block;">
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B9AAA&width=450&lines=This+is+MD.+Yousuf+Ali;MERN+Stack+Developer" alt="Typing SVG" />
-        </a>
-      </span>
+      
+<p align="left" style="font-size: 28px; color: #00f5d4; margin: 0;">
+    <strong><samp>{</samp></strong>
+  </p>
 
+  <p align="center" style="margin: 15px 0;">
+    <samp>
+      <span style="color: #7209b7; font-weight: bold; font-size: 20px; background: rgba(114, 9, 183, 0.1); padding: 2px 8px; border-radius: 5px; box-shadow: 0 0 10px rgba(114, 9, 183, 0.5);">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72C94&width=435&lines=This+is+MD.+Yousuf+Ali;MERN+Stack+Web+Developer" alt="Typing SVG" /></a>
+  </p>
+  <p align="right" style="font-size: 28px; color: #00f5d4; margin: 0;">
+    <strong><samp>}</samp></strong>
+  </p>
 
 
 
