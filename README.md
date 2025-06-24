@@ -1,5 +1,5 @@
 
-<img src="[https://github.com/yousufali156/yousufali156/blob/main/Yousufali156.png](https://github.com/yousufali156/yousufali156/blob/main/Md.%20Yousuf%20Ali.png)"/>
+<img src="https://github.com/yousufali156/yousufali156/blob/main/Md.%20Yousuf%20Ali.png?raw=true"/>
 
 <br/>
 
