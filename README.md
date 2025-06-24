@@ -3,27 +3,11 @@
 
 <br/>
 
-<div style="font-family: 'Segoe UI', 'Fira Code', 'Iosevka', monospace; background: #0A1F44; padding: 25px; border: 3px solid #1B9AAA; border-radius: 15px; max-width: 800px; margin: 0 auto; color: #E0EAF3; box-shadow: 0 0 20px rgba(27, 154, 170, 0.3); text-align: center;">
-  <p style="font-size: 28px; color: #1B9AAA; margin: 0;">
-    <strong><samp>「</samp></strong>
-  </p>
 
-  <p style="margin: 20px 0;">
-    <samp>
-      <b style="font-size: 32px; color: #E0EAF3; letter-spacing: 1px; text-shadow: 0 0 5px #1B9AAA;">Welcome</b>
-      <br /><br />
-      <span style="color: #1B9AAA; font-weight: bold; font-size: 20px; background: rgba(27, 154, 170, 0.15); padding: 4px 10px; border-radius: 6px; box-shadow: 0 0 12px rgba(27, 154, 170, 0.5); display: inline-block;">
+      <span align="center" style="color: #0065F8; font-weight: bold; font-size: 20px; background: rgba(27, 154, 170, 0.15); padding: 4px 10px; border-radius: 6px; box-shadow: 0 0 12px rgba(27, 154, 170, 0.5); display: inline-block;">
         <a href="https://git.io/typing-svg">
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B9AAA&width=450&lines=This+is+MD.+Yousuf+Ali;MERN+Stack+Developer" alt="Typing SVG" />
         </a>
-      </span>
-    </samp>
-  </p>
-
-  <p style="font-size: 28px; color: #1B9AAA; margin: 0;">
-    <strong><samp>」</samp></strong>
-  </p>
-</div>
 
 
 
