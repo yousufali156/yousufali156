@@ -1,16 +1,8 @@
 
-<img src="https://github.com/yousufali156/yousufali156/blob/main/Yousufali156.png"/>
-
-
-
-
-
-
-
+<img src="[https://github.com/yousufali156/yousufali156/blob/main/Yousufali156.png](https://github.com/yousufali156/yousufali156/blob/main/Md.%20Yousuf%20Ali.png)"/>
 
 <br/>
 
-<img src="https://github.com/yousufali156/yousufali156/blob/main/Yousufali156.png?raw=true"/>
 
 
 
