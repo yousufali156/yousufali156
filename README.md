@@ -36,6 +36,32 @@ Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus o
 
 ### 🔨 Languages and Tools:
 
+<table>
+  <tr>
+    <td align="center" width="96" style="padding: 8px;">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48" height="48" alt="React"
+        style="cursor:pointer; transition: transform 0.3s ease;"
+        onclick="this.style.transform = this.style.transform === 'scale(1.5)' ? 'scale(1)' : 'scale(1.5)'"
+      />
+      <br>React
+    </td>
+    <td align="center" width="96" style="padding: 8px;">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        width="48" height="48" alt="JavaScript"
+        style="cursor:pointer; transition: transform 0.3s ease;"
+        onclick="this.style.transform = this.style.transform === 'scale(1.5)' ? 'scale(1)' : 'scale(1.5)'"
+      />
+      <br>JavaScript
+    </td>
+    <!-- Repeat for others similarly -->
+  </tr>
+</table>
+
+
+
 
 <table>
   <tr>
