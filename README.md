@@ -2,9 +2,7 @@
 <img src="https://github.com/yousufali156/yousufali156/blob/main/Md.%20Yousuf%20Ali.png?raw=true"/>
 
 <br/>
-
-
-      
+     
 <p align="left" style="font-size: 28px; color: #0065F8; margin: 0;">
   <strong><samp>{</samp></strong>
 </p>
@@ -23,6 +21,10 @@
   <strong><samp>}</samp></strong>
 </p>
 
+<br/>
+
+<h1> https://img.icons8.com/?size=100&id=joATxKQkJdV6&format=png&color=000000 About Me</h1>
+Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus on MERN Stack Development. I love building full-stack applications and continuously learning the latest technologies in web development. If you're curious about what I do, feel free to connect with me. Outside of coding, I enjoy exploring tech articles and collaborating with other developers.
 
 
 
