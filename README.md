@@ -114,27 +114,8 @@ Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus o
 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/yousufali156/?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
-
-
-*   Compact layout
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact)
-
-*   Donut Chart layout
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-*   Donut Vertical Chart layout
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-*   Pie Chart layout
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-*   Hidden progress bars
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&hide_progress=true)
 
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&preferLogin=false">    <img  alt="https://github.com/yousufali156/'s GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/https://github.com/yousufali156/?cardType=level&preferLogin=false" />  </a>
 
