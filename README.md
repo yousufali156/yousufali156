@@ -26,8 +26,8 @@
 <h2> <img width="32" height="32" src="https://img.icons8.com/?size=100&id=joATxKQkJdV6&format=png&color=000000" /> About Me</h2>
 Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus on MERN Stack Development. I love building full-stack applications and continuously learning the latest technologies in web development. If you're curious about what I do, feel free to connect with me. Outside of coding, I enjoy exploring tech articles and collaborating with other developers.
 
-
-
+<br>
+<br>
 
 
 
@@ -37,50 +37,53 @@ Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus o
 ### 🔨 Languages and Tools:
 
 
-<table class="table-auto mx-auto">
+<table>
   <tr>
-    <td class="p-2 text-center w-24">
-      <img class="w-12 h-12 cursor-pointer transition-transform duration-200 active:scale-125 mx-auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
-      <div>React</div>
+    <td align="center" width="96" style="padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" style="cursor:pointer; transition: transform 0.2s;" onclick="this.style.transform='scale(1.5)'" onmouseleave="this.style.transform='scale(1)'"/>
+      <br>React
     </td>
-    <td class="p-2 text-center w-24">
-      <img class="w-12 h-12 cursor-pointer transition-transform duration-200 active:scale-125 mx-auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
-      <div>JavaScript</div>
+    <td align="center" width="96" style="padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" style="cursor:pointer; transition: transform 0.2s;" onclick="this.style.transform='scale(1.5)'" onmouseleave="this.style.transform='scale(1)'"/>
+      <br>JavaScript
     </td>
-    <td class="p-2 text-center w-24">
-      <img class="w-12 h-12 cursor-pointer transition-transform duration-200 active:scale-125 mx-auto" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" />
-      <div>Tailwind</div>
+    <td align="center" width="96" style="padding: 8px;">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind" style="cursor:pointer; transition: transform 0.2s;" onclick="this.style.transform='scale(1.5)'" onmouseleave="this.style.transform='scale(1)'"/>
+      <br>Tailwind
     </td>
-    <td class="p-2 text-center w-24">
-      <img class="w-12 h-12 cursor-pointer transition-transform duration-200 active:scale-125 mx-auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" />
-      <div>Express.js</div>
+    <td align="center" width="96" style="padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js" style="cursor:pointer; transition: transform 0.2s;" onclick="this.style.transform='scale(1.5)'" onmouseleave="this.style.transform='scale(1)'"/>
+      <br>Express.js
     </td>
-    <td class="p-2 text-center w-24">
-      <img class="w-12 h-12 cursor-pointer transition-transform duration-200 active:scale-125 mx-auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
-      <div>Node.js</div>
+    <td align="center" width="96" style="padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" style="cursor:pointer; transition: transform 0.2s;" onclick="this.style.transform='scale(1.5)'" onmouseleave="this.style.transform='scale(1)'"/>
+      <br>Node.js
     </td>
-    <td class="p-2 text-center w-24">
-      <img class="w-12 h-12 cursor-pointer transition-transform duration-200 active:scale-125 mx-auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" />
-      <div>MongoDB</div>
+  </tr>
+  <tr>
+    <td align="center" width="96" style="padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" style="cursor:pointer; transition: transform 0.2s;" onclick="this.style.transform='scale(1.5)'" onmouseleave="this.style.transform='scale(1)'"/>
+      <br>MongoDB
     </td>
-    <td class="p-2 text-center w-24">
-      <img class="w-12 h-12 cursor-pointer transition-transform duration-200 active:scale-125 mx-auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
-      <div>GitHub</div>
+    <td align="center" width="96" style="padding: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" style="cursor:pointer; transition: transform 0.2s;" onclick="this.style.transform='scale(1.5)'" onmouseleave="this.style.transform='scale(1)'"/>
+      <br>GitHub
     </td>
-    <td class="p-2 text-center w-24">
-      <img class="w-12 h-12 cursor-pointer transition-transform duration-200 active:scale-125 mx-auto" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" />
-      <div>Firebase</div>
+    <td align="center" width="96" style="padding: 8px;">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" style="cursor:pointer; transition: transform 0.2s;" onclick="this.style.transform='scale(1.5)'" onmouseleave="this.style.transform='scale(1)'"/>
+      <br>Firebase
     </td>
-    <td class="p-2 text-center w-24">
-      <img class="w-12 h-12 cursor-pointer transition-transform duration-200 active:scale-125 mx-auto" src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" />
-      <div>Vercel</div>
+    <td align="center" width="96" style="padding: 8px;">
+      <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="48" height="48" alt="Vercel" style="cursor:pointer; transition: transform 0.2s;" onclick="this.style.transform='scale(1.5)'" onmouseleave="this.style.transform='scale(1)'"/>
+      <br>Vercel
     </td>
-    <td class="p-2 text-center w-24">
-      <img class="w-12 h-12 cursor-pointer transition-transform duration-200 active:scale-125 mx-auto" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" />
-      <div>Netlify</div>
+    <td align="center" width="96" style="padding: 8px;">
+      <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="48" height="48" alt="Netlify" style="cursor:pointer; transition: transform 0.2s;" onclick="this.style.transform='scale(1.5)'" onmouseleave="this.style.transform='scale(1)'"/>
+      <br>Netlify
     </td>
   </tr>
 </table>
+
 
 
 
