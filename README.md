@@ -100,41 +100,13 @@ Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus o
   </tr>
 </table>
 
-
-
-
-
-
-
-
-
-
 <br>
 
 
 ### 📊 Github Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/yousufali156/?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousufali156\&layout=pie)](https://github.com/yousufali156/github-readme-stats)
-
-
-  <table>
-  <tr>
-    <td align="left" width="60%">
-      <h3>👋 Hi, I'm Yousuf Ali</h3>
-      <p>💻 I’m a full stack developer specialized in:</p>
-      <ul>
-        <li>React, JavaScript, Tailwind</li>
-        <li>Node.js, Express.js, MongoDB</li>
-        <li>Firebase, GitHub, Netlify, Vercel</li>
-      </ul>
-    </td>
-    <td align="center" width="40%">
-      <a href="https://github.com/yousufali156/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousufali156&layout=pie" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 
 <br/>
@@ -145,7 +117,7 @@ Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus o
 <a href="https://github.com/yousufali156/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yousufali156&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/yousufali156.github.io">
+<a href="https://github.com/yousufali156/.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yousufali156&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
