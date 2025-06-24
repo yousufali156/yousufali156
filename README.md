@@ -36,6 +36,11 @@ Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus o
 
 ### 🔨 Languages and Tools:
 
+
+
+
+
+
 <table>
   <tr>
     <td align="center" width="96" style="padding: 8px;">
@@ -43,7 +48,9 @@ Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus o
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48" height="48" alt="React"
         style="cursor:pointer; transition: transform 0.3s ease;"
-        onclick="this.style.transform = this.style.transform === 'scale(1.5)' ? 'scale(1)' : 'scale(1.5)'"
+        onmouseover="this.style.transform='scale(1.5)'"
+        onmouseout="this.style.transform='scale(1)'"
+        onclick="return false;"
       />
       <br>React
     </td>
@@ -52,63 +59,105 @@ Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus o
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
         width="48" height="48" alt="JavaScript"
         style="cursor:pointer; transition: transform 0.3s ease;"
-        onclick="this.style.transform = this.style.transform === 'scale(1.5)' ? 'scale(1)' : 'scale(1.5)'"
+        onmouseover="this.style.transform='scale(1.5)'"
+        onmouseout="this.style.transform='scale(1)'"
+        onclick="return false;"
       />
       <br>JavaScript
     </td>
-    <!-- Repeat for others similarly -->
-  </tr>
-</table>
-
-
-
-
-<table>
-  <tr>
     <td align="center" width="96" style="padding: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" style="cursor:pointer; transition: transform 0.2s;" onclick="this.style.transform='scale(1.5)'" onmouseleave="this.style.transform='scale(1)'"/>
-      <br>React
-    </td>
-    <td align="center" width="96" style="padding: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" style="cursor:pointer; transition: transform 0.2s;" onclick="this.style.transform='scale(1.5)'" onmouseleave="this.style.transform='scale(1)'"/>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96" style="padding: 8px;">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind" style="cursor:pointer; transition: transform 0.2s;" onclick="this.style.transform='scale(1.5)'" onmouseleave="this.style.transform='scale(1)'"/>
+      <img
+        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+        width="48" height="48" alt="Tailwind"
+        style="cursor:pointer; transition: transform 0.3s ease;"
+        onmouseover="this.style.transform='scale(1.5)'"
+        onmouseout="this.style.transform='scale(1)'"
+        onclick="return false;"
+      />
       <br>Tailwind
     </td>
     <td align="center" width="96" style="padding: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js" style="cursor:pointer; transition: transform 0.2s;" onclick="this.style.transform='scale(1.5)'" onmouseleave="this.style.transform='scale(1)'"/>
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        width="48" height="48" alt="Express.js"
+        style="cursor:pointer; transition: transform 0.3s ease;"
+        onmouseover="this.style.transform='scale(1.5)'"
+        onmouseout="this.style.transform='scale(1)'"
+        onclick="return false;"
+      />
       <br>Express.js
     </td>
     <td align="center" width="96" style="padding: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" style="cursor:pointer; transition: transform 0.2s;" onclick="this.style.transform='scale(1.5)'" onmouseleave="this.style.transform='scale(1)'"/>
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        width="48" height="48" alt="Node.js"
+        style="cursor:pointer; transition: transform 0.3s ease;"
+        onmouseover="this.style.transform='scale(1.5)'"
+        onmouseout="this.style.transform='scale(1)'"
+        onclick="return false;"
+      />
       <br>Node.js
     </td>
   </tr>
   <tr>
     <td align="center" width="96" style="padding: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" style="cursor:pointer; transition: transform 0.2s;" onclick="this.style.transform='scale(1.5)'" onmouseleave="this.style.transform='scale(1)'"/>
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        width="48" height="48" alt="MongoDB"
+        style="cursor:pointer; transition: transform 0.3s ease;"
+        onmouseover="this.style.transform='scale(1.5)'"
+        onmouseout="this.style.transform='scale(1)'"
+        onclick="return false;"
+      />
       <br>MongoDB
     </td>
     <td align="center" width="96" style="padding: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" style="cursor:pointer; transition: transform 0.2s;" onclick="this.style.transform='scale(1.5)'" onmouseleave="this.style.transform='scale(1)'"/>
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+        width="48" height="48" alt="GitHub"
+        style="cursor:pointer; transition: transform 0.3s ease;"
+        onmouseover="this.style.transform='scale(1.5)'"
+        onmouseout="this.style.transform='scale(1)'"
+        onclick="return false;"
+      />
       <br>GitHub
     </td>
     <td align="center" width="96" style="padding: 8px;">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" style="cursor:pointer; transition: transform 0.2s;" onclick="this.style.transform='scale(1.5)'" onmouseleave="this.style.transform='scale(1)'"/>
+      <img
+        src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+        width="48" height="48" alt="Firebase"
+        style="cursor:pointer; transition: transform 0.3s ease;"
+        onmouseover="this.style.transform='scale(1.5)'"
+        onmouseout="this.style.transform='scale(1)'"
+        onclick="return false;"
+      />
       <br>Firebase
     </td>
     <td align="center" width="96" style="padding: 8px;">
-      <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="48" height="48" alt="Vercel" style="cursor:pointer; transition: transform 0.2s;" onclick="this.style.transform='scale(1.5)'" onmouseleave="this.style.transform='scale(1)'"/>
+      <img
+        src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg"
+        width="48" height="48" alt="Vercel"
+        style="cursor:pointer; transition: transform 0.3s ease;"
+        onmouseover="this.style.transform='scale(1.5)'"
+        onmouseout="this.style.transform='scale(1)'"
+        onclick="return false;"
+      />
       <br>Vercel
     </td>
     <td align="center" width="96" style="padding: 8px;">
-      <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="48" height="48" alt="Netlify" style="cursor:pointer; transition: transform 0.2s;" onclick="this.style.transform='scale(1.5)'" onmouseleave="this.style.transform='scale(1)'"/>
+      <img
+        src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"
+        width="48" height="48" alt="Netlify"
+        style="cursor:pointer; transition: transform 0.3s ease;"
+        onmouseover="this.style.transform='scale(1.5)'"
+        onmouseout="this.style.transform='scale(1)'"
+        onclick="return false;"
+      />
       <br>Netlify
     </td>
   </tr>
 </table>
+
 
 
 
