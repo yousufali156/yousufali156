@@ -115,9 +115,14 @@ Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus o
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/yousufali156/?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 
+
+| Languages                                                                                                                                                                                      | Chart                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>🟨 JavaScript — **68.86%**</li><li>🟥 HTML — **15.28%**</li><li>🟦 TypeScript — **11.13%**</li><li>🟪 CSS — **4.12%**</li><li>🔵 GLSL — **0.36%**</li><li>🔴 C++ — **0.25%**</li></ul> | <img src="https://raw.githubusercontent.com/yousufali156/yousufali156/main/assets/language-chart.png" width="200"/> |
+
+
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&preferLogin=false">    <img  alt="https://github.com/yousufali156/'s GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/https://github.com/yousufali156/?cardType=level&preferLogin=false" />  </a>
 
-  <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
 
 
 ### 📊 Github Stats
@@ -127,6 +132,10 @@ Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus o
 ![Most Used Languages](https://raw.githubusercontent.com/yousufali156/github-stats-transparent/output/generated/languages.svg)
 
 </a>
+
+
+
+
 
 <br>
 
