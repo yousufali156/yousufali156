@@ -35,128 +35,76 @@ Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus o
 
 
 ### 🔨 Languages and Tools:
-
-
-
-
-
-
 <table>
   <tr>
-    <td align="center" width="96" style="padding: 8px;">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48" height="48" alt="React"
-        style="cursor:pointer; transition: transform 0.3s ease;"
-        onmouseover="this.style.transform='scale(1.5)'"
-        onmouseout="this.style.transform='scale(1)'"
-        onclick="return false;"
-      />
-      <br>React
+    <td align="center" width="96">
+      <a href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+        <br>React
+      </a>
     </td>
-    <td align="center" width="96" style="padding: 8px;">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-        width="48" height="48" alt="JavaScript"
-        style="cursor:pointer; transition: transform 0.3s ease;"
-        onmouseover="this.style.transform='scale(1.5)'"
-        onmouseout="this.style.transform='scale(1)'"
-        onclick="return false;"
-      />
-      <br>JavaScript
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
+      </a>
     </td>
-    <td align="center" width="96" style="padding: 8px;">
-      <img
-        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-        width="48" height="48" alt="Tailwind"
-        style="cursor:pointer; transition: transform 0.3s ease;"
-        onmouseover="this.style.transform='scale(1.5)'"
-        onmouseout="this.style.transform='scale(1)'"
-        onclick="return false;"
-      />
-      <br>Tailwind
+    <td align="center" width="96">
+      <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind CSS" />
+        <br>Tailwind
+      </a>
     </td>
-    <td align="center" width="96" style="padding: 8px;">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-        width="48" height="48" alt="Express.js"
-        style="cursor:pointer; transition: transform 0.3s ease;"
-        onmouseover="this.style.transform='scale(1.5)'"
-        onmouseout="this.style.transform='scale(1)'"
-        onclick="return false;"
-      />
-      <br>Express.js
+    <td align="center" width="96">
+      <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js" />
+        <br>Express.js
+      </a>
     </td>
-    <td align="center" width="96" style="padding: 8px;">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-        width="48" height="48" alt="Node.js"
-        style="cursor:pointer; transition: transform 0.3s ease;"
-        onmouseover="this.style.transform='scale(1.5)'"
-        onmouseout="this.style.transform='scale(1)'"
-        onclick="return false;"
-      />
-      <br>Node.js
+    <td align="center" width="96">
+      <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+        <br>Node.js
+      </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96" style="padding: 8px;">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-        width="48" height="48" alt="MongoDB"
-        style="cursor:pointer; transition: transform 0.3s ease;"
-        onmouseover="this.style.transform='scale(1.5)'"
-        onmouseout="this.style.transform='scale(1)'"
-        onclick="return false;"
-      />
-      <br>MongoDB
+    <td align="center" width="96">
+      <a href="https://www.mongodb.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
+      </a>
     </td>
-    <td align="center" width="96" style="padding: 8px;">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-        width="48" height="48" alt="GitHub"
-        style="cursor:pointer; transition: transform 0.3s ease;"
-        onmouseover="this.style.transform='scale(1.5)'"
-        onmouseout="this.style.transform='scale(1)'"
-        onclick="return false;"
-      />
-      <br>GitHub
+    <td align="center" width="96">
+      <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+        <br>GitHub
+      </a>
     </td>
-    <td align="center" width="96" style="padding: 8px;">
-      <img
-        src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-        width="48" height="48" alt="Firebase"
-        style="cursor:pointer; transition: transform 0.3s ease;"
-        onmouseover="this.style.transform='scale(1.5)'"
-        onmouseout="this.style.transform='scale(1)'"
-        onclick="return false;"
-      />
-      <br>Firebase
+    <td align="center" width="96">
+      <a href="https://firebase.google.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
+        <br>Firebase
+      </a>
     </td>
-    <td align="center" width="96" style="padding: 8px;">
-      <img
-        src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg"
-        width="48" height="48" alt="Vercel"
-        style="cursor:pointer; transition: transform 0.3s ease;"
-        onmouseover="this.style.transform='scale(1.5)'"
-        onmouseout="this.style.transform='scale(1)'"
-        onclick="return false;"
-      />
-      <br>Vercel
+    <td align="center" width="96">
+      <a href="https://vercel.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="48" height="48" alt="Vercel" />
+        <br>Vercel
+      </a>
     </td>
-    <td align="center" width="96" style="padding: 8px;">
-      <img
-        src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"
-        width="48" height="48" alt="Netlify"
-        style="cursor:pointer; transition: transform 0.3s ease;"
-        onmouseover="this.style.transform='scale(1.5)'"
-        onmouseout="this.style.transform='scale(1)'"
-        onclick="return false;"
-      />
-      <br>Netlify
+    <td align="center" width="96">
+      <a href="https://www.netlify.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="48" height="48" alt="Netlify" />
+        <br>Netlify
+      </a>
     </td>
   </tr>
 </table>
+
+
+
+
+
+
 
 
 
