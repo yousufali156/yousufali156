@@ -117,7 +117,25 @@ Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus o
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousufali156\&layout=pie)](https://github.com/yousufali156/github-readme-stats)
 
 
-  
+  <table>
+  <tr>
+    <td align="left" width="60%">
+      <h3>👋 Hi, I'm Yousuf Ali</h3>
+      <p>💻 I’m a full stack developer specialized in:</p>
+      <ul>
+        <li>React, JavaScript, Tailwind</li>
+        <li>Node.js, Express.js, MongoDB</li>
+        <li>Firebase, GitHub, Netlify, Vercel</li>
+      </ul>
+    </td>
+    <td align="center" width="40%">
+      <a href="https://github.com/yousufali156/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousufali156&layout=pie" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <br/>
 
