@@ -37,52 +37,62 @@ Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus o
 ### 🔨 Languages and Tools:
 
 
-<table cellspacing="10">
+<style>
+  .zoom-icon {
+    transition: transform 0.2s ease;
+    cursor: pointer;
+  }
+
+  .zoom-icon:active {
+    transform: scale(1.5);
+  }
+</style>
+
+<table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+    <td align="center" width="96" style="padding: 8px;">
+      <img class="zoom-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
       <br>React
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+    <td align="center" width="96" style="padding: 8px;">
+      <img class="zoom-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind CSS" />
+    <td align="center" width="96" style="padding: 8px;">
+      <img class="zoom-icon" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind CSS" />
       <br>Tailwind
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js" />
+    <td align="center" width="96" style="padding: 8px;">
+      <img class="zoom-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js" />
       <br>Express.js
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+    <td align="center" width="96" style="padding: 8px;">
+      <img class="zoom-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       <br>Node.js
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+    <td align="center" width="96" style="padding: 8px;">
+      <img class="zoom-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+    <td align="center" width="96" style="padding: 8px;">
+      <img class="zoom-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
+    <td align="center" width="96" style="padding: 8px;">
+      <img class="zoom-icon" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
       <br>Firebase
     </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="48" height="48" alt="Vercel" />
+    <td align="center" width="96" style="padding: 8px;">
+      <img class="zoom-icon" src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="48" height="48" alt="Vercel" />
       <br>Vercel
     </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="48" height="48" alt="Netlify" />
+    <td align="center" width="96" style="padding: 8px;">
+      <img class="zoom-icon" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="48" height="48" alt="Netlify" />
       <br>Netlify
     </td>
   </tr>
 </table>
+
 
 
 
