@@ -10,10 +10,11 @@
   </p>
 
   <p align="center" style="margin: 15px 0;">
-    
+     <samp>
       <span style="color: #7209b7; font-weight: bold; font-size: 20px; background: rgba(114, 9, 183, 0.1); padding: 2px 8px; border-radius: 5px; box-shadow: 0 0 10px rgba(114, 9, 183, 0.5);">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72C94&width=435&lines=WelCome++++This+is+MD.+Yousuf+Ali;MERN+Stack+Web+Developer" alt="Typing SVG" /></a>
   </span>
+           </samp>
   <p align="right" style="font-size: 28px; color: #00f5d4; margin: 0;">
     <strong><samp>}</samp></strong>
   </p>
