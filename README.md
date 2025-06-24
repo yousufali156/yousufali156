@@ -123,6 +123,8 @@ Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus o
 
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&preferLogin=false">    <img  alt="https://github.com/yousufali156/'s GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/https://github.com/yousufali156/?cardType=level&preferLogin=false" />  </a>
 
+| <a href="https://github.com/yousufali156/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yousufali156&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yousuf Ali's github stats" /></a> | <a href="https://github.com/yousufali156/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayousufali156&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 ### 📊 Github Stats
