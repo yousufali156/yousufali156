@@ -133,9 +133,17 @@ Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus o
 
 </a>
 
+<br/>
+
+#### Top Repositories
 
 
-
+<a href="https://github.com/yousufali156/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yousufali156&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/yousufali156.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yousufali156&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 
 <br>
 
