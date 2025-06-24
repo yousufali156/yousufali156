@@ -5,19 +5,24 @@
 
 
       
-<p align="left" style="font-size: 28px; color: #4300FF; margin: 0;">
-    <strong><samp>{</samp></strong>
-  </p>
+<p align="left" style="font-size: 28px; color: #0065F8; margin: 0;">
+  <strong><samp>{</samp></strong>
+</p>
 
-  <p align="center" style="margin: 15px 0;">
-     <samp>
-      <span style="color: #0065F8; font-weight: bold; font-size: 20px; background: rgba(114, 9, 183, 0.1); padding: 2px 8px; border-radius: 5px; box-shadow: 0 0 10px rgba(114, 9, 183, 0.5);">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72C94&width=435&lines=WelCome++++This+is+MD.+Yousuf+Ali;MERN+Stack+Web+Developer" alt="Typing SVG" /></a>
-  </span>
-           </samp>
-  <p align="right" style="font-size: 28px; color: #4300FF; margin: 0;">
-    <strong><samp>}</samp></strong>
-  </p>
+<p align="center" style="margin: 15px 0;">
+  <samp>
+    <span style="color: #4300FF; font-weight: bold; font-size: 20px; background: rgba(0, 101, 248, 0.1); padding: 2px 8px; border-radius: 5px; box-shadow: 0 0 10px rgba(0, 101, 248, 0.5);">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0065F8&width=435&lines=WelCome++++This+is+MD.+Yousuf+Ali;MERN+Stack+Web+Developer" alt="Typing SVG" />
+      </a>
+    </span>
+  </samp>
+</p>
+
+<p align="right" style="font-size: 28px; color: #0065F8; margin: 0;">
+  <strong><samp>}</samp></strong>
+</p>
+
 
 
 
