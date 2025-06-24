@@ -110,8 +110,11 @@ Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus o
 
 
 <br/>
-### Lovely Quotes 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/yousufali156/github-readme-quotes)
+
+### 💬 Lovely Quotes
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/PiyushSuthar/github-readme-quotes)
+
 
 
 <br/>
