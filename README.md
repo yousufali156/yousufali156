@@ -14,15 +14,17 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72C94&width=435&lines=This+is+Md.+Yousuf+Ali;MERN+Stack+Developer" alt="Typing SVG" /></a>
   </p>
 
-       <h1 align="center" style="background-color:#0a1930; padding: 20px; border-radius: 10px;">
+       
   <a href="https://git.io/typing-svg">
+   <h1 align="center" style="background-color:#0a1930; padding: 20px; border-radius: 10px;">
     <img 
       src="https://readme-typing-svg.demolab.com/?lines=This+is+Md.+Yousuf+Ali;MERN+Stack+Developer&center=true&width=600&height=45&font=Fira+Code&color=FAD000&vCenter=true&size=25&pause=1000&multiline=true" 
       alt="Typing SVG" 
       style="background: linear-gradient(to right, #FF512F, #DD2476, #24C6DC, #514A9D, #43C6AC); -webkit-background-clip: text; color: transparent;" 
     />
+    </h1>
   </a>
-</h1>
+
 
 
        <h1 align="center">
