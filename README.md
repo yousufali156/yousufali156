@@ -157,13 +157,13 @@ Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus o
     </td>
     <td align="center" width="96">
       <a href="https://www.canva.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="48" height="48" alt="Canva" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="48" height="48" alt="Canva" />
         <br>Canva
       </a>
     </td>
     <td align="center" width="96">
       <a href="https://www.techsmith.com/video-editor.html" target="_blank" rel="noopener noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Camtasia_2022_Icon.png" width="48" height="48" alt="Camtasia" />
+       <img src="https://seeklogo.com/images/C/camtasia-logo-D01C4F5B9D-seeklogo.com.png" width="48" height="48" alt="Camtasia" />
         <br>Camtasia
       </a>
     </td>
@@ -174,28 +174,53 @@ Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus o
 
 
 
-## 🌐 Socials & 🔍Find me here:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousufali156)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@yousufalidev)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdyousufali.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/yousufali156)
-[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/yousufali156)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/yousufali156)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/yousufali156)
+## 🔍 Find me here 🌐 Socials :
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yousufali156" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@yousufalidev" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:mdyousufali.dev@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/yousufali156" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://x.com/yousufali156" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter / X" />
+  </a>
+  <a href="https://www.facebook.com/yousufali156" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://discord.com/users/yousufali156" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
 
 
 <br/>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=yousufali156&theme=dark&hide_border=false&include_all_commits=false&count_private=false)><br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yousufali156&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yousufali156&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yousufali156&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=yousufali156&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousufali156&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
- [![](https://visitcount.itsvg.in/api?id=yousufali156&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=yousufali156&icon=0&color=0" alt="Visitor Count" />
+  </a>
+</p>
 
 
 
@@ -208,27 +233,14 @@ Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus o
 
 <br/>
 
-## 🔍  Where to find me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yousufali156" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn" height="25" />
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/yousufali156" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-282C34?logo=facebook&logoColor=1877F2" alt="Facebook" height="25" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/yousufali156" target="_blank">
-    <img src="https://img.shields.io/badge/X-282C34?logo=twitter&logoColor=1DA1F2" alt="Twitter/X" height="25" />
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/yousufali156" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-282C34?logo=discord&logoColor=5865F2" alt="Discord" height="25" />
-  </a>
-</p>
 
 <br/>
 
-  ## 💰 You can help me by donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/yousufali156) 
+## 💰 You can help me by donating
+
+<p align="center">
+  <a href="https://buymeacoffee.com/yousufali156" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
