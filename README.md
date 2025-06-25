@@ -26,13 +26,21 @@
 <h2> <img width="32" height="32" src="https://img.icons8.com/?size=100&id=joATxKQkJdV6&format=png&color=000000" /> About Me</h2>
 Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus on MERN Stack Development. I love building full-stack applications and continuously learning the latest technologies in web development. If you're curious about what I do, feel free to connect with me. Outside of coding, I enjoy exploring tech articles and collaborating with other developers.
 
+<br/>
+
+## 🧑‍💻 Current Activities
+
+- 🌍 Based in **Bangladesh**
+- ✉️ Reach me at: [mdyousufali.dev@gmail.com](mailto:mdyousufali.dev@gmail.com)
+- 🚀 Currently working on: [Nil's Diary Services](http://nils-diary.com)
+- 🧠 Exploring: **Next.js** & **TypeScript**
+- 🤝 Open to collaborating on: **Next.js projects**
+- ⚡ Always looking for ways to grow and improve — feedback is welcome!
+
+
+---
+
 <br>
-<br>
-
-
-
-
-
 
 ### 🔨 Skills, Languages & Tools:
 <table>
@@ -50,9 +58,33 @@ Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus o
       </a>
     </td>
     <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+        <br>HTML5
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+        <br>CSS3
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
+        <br>Bootstrap
+      </a>
+    </td>
+    <td align="center" width="96">
       <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind CSS" />
         <br>Tailwind
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://vitejs.dev" target="_blank" rel="noopener noreferrer">
+        <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
+        <br>Vite
       </a>
     </td>
     <td align="center" width="96">
@@ -71,6 +103,20 @@ Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus o
       <a href="https://www.mongodb.com" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
         <br>MongoDB
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://git-scm.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+        <br>Git
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+        <br>VS Code
       </a>
     </td>
     <td align="center" width="96">
@@ -97,6 +143,30 @@ Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus o
         <br>Netlify
       </a>
     </td>
+    <td align="center" width="96">
+      <a href="https://figma.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+        <br>Figma
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="Photoshop" />
+        <br>Photoshop
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.canva.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="48" height="48" alt="Canva" />
+        <br>Canva
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.techsmith.com/video-editor.html" target="_blank" rel="noopener noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Camtasia_2022_Icon.png" width="48" height="48" alt="Camtasia" />
+        <br>Camtasia
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -104,8 +174,15 @@ Hi there! I'm Md. Yousuf Ali is a passionate Web Developer with a strong focus o
 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yousufali156/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@yousufalidev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdyousufali.dev@gmail.com) 
+## 🌐 Socials & 🔍Find me here:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousufali156)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@yousufalidev)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdyousufali.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/yousufali156)
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/yousufali156)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/yousufali156)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/yousufali156)
+
 
 <br/>
 
