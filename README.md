@@ -223,8 +223,7 @@ Hi there! I'm Md. Yousuf Ali — a passionate MERN Stack Web Developer dedicated
 
 
 <p align="center">
-  <img src="https://github.com/yousufali156/yousufali156/blob/main/Yousuf%20Colour%20Wave.svg
-" alt="wave divider" />
+  <img src="https://github.com/yousufali156/yousufali156/blob/main/YousufColourWave.svg" alt="wave divider" />
   
 </p>
 
