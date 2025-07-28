@@ -217,7 +217,10 @@ Hi there! I'm Md. Yousuf Ali — a passionate MERN Stack Web Developer dedicated
 
 
 
-<h2> ## 💰 Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
+<h2> 
+  💰 <span style="color:#007bff;">Support Me</span> 
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="40px" height="40px">
+</h2>
 
 <p align="center"> <a href="https://www.buymeacoffee.com/yousufali156" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" style="border-radius:12px" /> </a> </p>
 
