@@ -214,11 +214,19 @@ Hi there! I'm Md. Yousuf Ali — a passionate MERN Stack Web Developer dedicated
 
 <br/>
 
-## 💰 Support Me
 
 
-<h2>Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
+
+<h2> ## 💰 Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 
 <p align="center"> <a href="https://www.buymeacoffee.com/yousufali156" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" style="border-radius:12px" /> </a> </p>
 
+
+<p align="center">
+  <img src="https://github.com/yousufali156/yousufali156/blob/main/Yousuf%20Colour%20Wave.svg
+" alt="wave divider" />
+  
+</p>
+
+<p align="center">Made with 💜 by Yousuf Ali</p>
 
