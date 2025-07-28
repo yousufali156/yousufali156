@@ -63,14 +63,14 @@
       </stop>
     </linearGradient>
 
-    <path id="wave" d="M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z" />
+    <path id="wave" d=" M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z" />
   </defs>
 
   <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2" />
   <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" />
 
   <svg height="30" width="200">
-    <a xlink:href="https://github.com/yousufali156" target="_top">
+    <a xlink:href="https://github.com/yousufali156" target="_blank">
       <text y="39" font-family="Times, serif" fill="grey" font-size="1px">@yousufali156</text>
     </a>
   </svg>
