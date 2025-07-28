@@ -31,7 +31,6 @@ Hi there! I'm Md. Yousuf Ali — a passionate MERN Stack Web Developer dedicated
 
 - 🌍 Based in **Bangladesh**  
 - ✉️ Reach me at: [mdyousufali.dev@gmail.com](mailto:mdyousufali.dev@gmail.com)  
-- 🚀 Currently working on: [Nil's Diary Services](http://nils-diary.com)  
 - 🧠 Exploring: **Next.js** & **TypeScript**  
 - 🤝 Open to collaborating on **Next.js** projects  
 - ⚡ Always seeking feedback and ways to grow professionally  
@@ -218,3 +217,6 @@ Hi there! I'm Md. Yousuf Ali — a passionate MERN Stack Web Developer dedicated
 ## 💰 Support Me
 
 <p align="center"> <a href="https://www.buymeacoffee.com/yousufali156" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" style="border-radius:12px" /> </a> </p>
+
+
+https://raw.githubusercontent.com/yousufali156/yousufali156/main/wave.svg
