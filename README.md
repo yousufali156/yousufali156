@@ -31,7 +31,7 @@ Hi there! I'm Md. Yousuf Ali — a passionate MERN Stack Web Developer dedicated
 
 - 🌍 Based in **Bogura, Bangladesh**  
 - ✉️ Reach me at: [mdyousufali.dev@gmail.com](mailto:mdyousufali.dev@gmail.com)  
-- Message link: [Send message to +8801754954385](https://wa.me/8801754954385?text=Hello%2C%20I%20found%20your%20project%20and%20would%20like%20to%20get%20in%20touch.)
+- WhatsApp Message link: [Send message to +8801754954385](https://wa.me/8801754954385?text=Hello%2C%20I%20found%20your%20project%20and%20would%20like%20to%20get%20in%20touch.)
 - 🧠 Exploring: **Next.js** & **TypeScript**  
 - 🤝 Open to collaborating on **Next.js** projects  
 - ⚡ Always seeking feedback and ways to grow professionally  
