@@ -147,7 +147,7 @@ Hi there! I'm Md. Yousuf Ali — a passionate MERN Stack Web Developer dedicated
         <br>Figma
       </a>
     </td>
-    <td align="center" width="96">
+  <td align="center" width="96">
       <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="Photoshop" />
         <br>Photoshop
