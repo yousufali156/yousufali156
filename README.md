@@ -217,18 +217,17 @@ Hi there! I'm Md. Yousuf Ali — a passionate MERN Stack Web Developer dedicated
 <br/>
 
 
-<h2 style="display: flex; align-items: center; gap: 8px;">
-  <span>💰</span>
-  Support Me
+<h2>
+  <span>💰</span> Support Me
   <img
     src="https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif"
     width="40"
     height="40"
     alt="decorative animation"
+    draggable="false"
     style="pointer-events: none; user-select: none;"
   />
 </h2>
-
 
 
 
