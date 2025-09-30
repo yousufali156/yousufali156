@@ -216,10 +216,16 @@ Hi there! I'm Md. Yousuf Ali — a passionate MERN Stack Web Developer dedicated
 
 <br/>
 
-<h5 class="hidden">
-  ![GitHub Streak](https://streak-stats.demolab.com?user=yousufali156&theme=highcontrast&border_radius=4.4&locale=bn&card_width=512&card_height=208&border=EBE30F&background=55,093FEB,EB0B2C)
-</h5>
+<details>
+  <summary>Hidden Code</summary>
 
+  ```markdown
+  ![GitHub Streak](https://streak-stats.demolab.com?user=yousufali156&theme=highcontrast&border_radius=4.4&locale=bn&card_width=512&card_height=208&border=EBE30F&background=55,093FEB,EB0B2C)
+
+
+<!--
+![GitHub Streak](https://streak-stats.demolab.com?user=yousufali156&theme=highcontrast&border_radius=4.4&locale=bn&card_width=512&card_height=208&border=EBE30F&background=55,093FEB,EB0B2C)
+-->
 
 
 
